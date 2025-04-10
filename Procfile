@@ -1,1 +1,1 @@
-command: python3 app.py
+delete Procfile
